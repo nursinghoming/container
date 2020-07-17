@@ -1,0 +1,2 @@
+FROM registry.docker-cn.com/ufoym/deepo
+LABEL maintainer="ShangGuoChao"
