@@ -1,2 +1,2 @@
-FROM hub-mirror.c.163.com/ufoym/deepo
+FROM ufoym/deepo
 LABEL maintainer="ShangGuoChao"
