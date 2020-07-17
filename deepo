@@ -1,2 +1,1 @@
 FROM ufoym/deepo
-LABEL maintainer="ShangGuoChao"
