@@ -1,0 +1,8 @@
+FROM ubuntu:16.04
+RUN  apt-get update  \
+&& apt-get install wget \
+&& apt-get install build-essential \
+&& apt-get install vim \
+&& apt-get install libxml2 \
+&& apt install libgl1-mesa-glx \
+&& apt-get install libglib2.0-dev \
