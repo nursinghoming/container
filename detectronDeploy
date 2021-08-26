@@ -36,11 +36,6 @@ RUN pip install --user -e detectron2_repo
 
 # Set a fixed model cache directory.
 ENV FVCORE_CACHE="/tmp"
-WORKDIR /home/appuser/detectron2_repo
-
-USER appuser
-ENV HOME=/home/appuser
-WORKDIR $HOME
 
 ENV CMAKE_PREFIX_PATH=$HOME/.local/lib/python3.8/site-packages/torch/
 
