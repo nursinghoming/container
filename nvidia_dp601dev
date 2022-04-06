@@ -1,1 +1,1 @@
-docker pull nvcr.io/nvidia/deepstream:6.0.1-devel
+FROM nvcr.io/nvidia/deepstream:6.0.1-devel
