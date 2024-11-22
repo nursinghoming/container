@@ -1,0 +1,1 @@
+FROM infiniflow/ragflow:dev-slim
