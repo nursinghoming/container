@@ -1,1 +1,1 @@
-qwenllm/qwenvl:latest
+FROM qwenllm/qwenvl:latest
