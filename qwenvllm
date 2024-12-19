@@ -1,1 +1,1 @@
-FROM qwenllm/qwenvl
+FROM qwenllm/qwenvl:2-cu121
