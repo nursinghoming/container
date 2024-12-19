@@ -1,0 +1,1 @@
+FROM qwenllm/qwenvl:2-cu121-wo-flashattn
