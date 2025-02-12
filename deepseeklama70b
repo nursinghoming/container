@@ -1,0 +1,1 @@
+FROM koyeb/deepseek-ai-deepseek-r1-distill-llama-70b:latest
